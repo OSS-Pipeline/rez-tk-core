@@ -1,3 +1,4 @@
-# rez-shotgun-toolkit
+rez-shotgun-toolkit
+===
 
-Rez build configuration for Shotgun Toolkit.
+Rez build configuration for the Shotgun Toolkit API.
